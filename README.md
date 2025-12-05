@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hey, how are you? 👋
 
 Welcome to my GitHub profile! I'm **Mateus**, a software engineer passionate about building scalable, reliable, and elegant backend systems.
 
