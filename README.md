@@ -1,6 +1,6 @@
-# Hey, how are you? 👋
+# Hi! I'm Mateus Pereira 👋
 
-Welcome to my GitHub profile! I'm **Mateus**, a software engineer passionate about building scalable, reliable, and elegant backend systems.
+Welcome to my GitHub profile! I'm a software engineer passionate about building scalable, reliable, and elegant backend systems.
 
 ## 🚀 About Me
 
